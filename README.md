@@ -8,3 +8,6 @@ Experience One Year Using Angular .
 
 # Contact Me
 eslamboully@gmail.com
+
+# Other Links
+linkedin.com/in/abdelrahman-osama-26a882171 
