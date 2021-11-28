@@ -10,4 +10,4 @@ Experience One Year Using Angular .
 eslamboully@gmail.com
 
 # Other Links
-<a href="https://www.linkedin.com/in/abdelrahman-osama-26a882171 ">LinkedIn Profile</a>
+<a target="_blank" href="https://www.linkedin.com/in/abdelrahman-osama-26a882171 ">LinkedIn Profile</a>
