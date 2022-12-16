@@ -2,9 +2,9 @@
 
 Hi , I'M Abdelrahman Osama
 A Software Engineer Specializing In Web Development ﬁeld. I
-Work As A Backend Developer With 2 Years Experience Using Dotnet Core 
+Work As A Backend Developer With 3 Years Experience Using Dotnet Core 
 Previously, I Worked As A Php Developer . I Also Have
-Experience One Year Using Angular .
+Experience Using Angular .
 
 # Contact Me
 eslamboully@gmail.com
