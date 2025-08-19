@@ -10,4 +10,4 @@ eslamboully@gmail.com
 
 # Other Links
 <a href="https://www.linkedin.com/in/abdelrahman-osama-26a882171" target="_blank">LinkedIn Profile</a>
-<a href="https://abdelrahman-osama.tech" target="_blank">Personal Site</a>
+<a href="https://eslamboully.github.io/personal-site" target="_blank">Personal Site</a>
